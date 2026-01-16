@@ -1,8 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.ListyCity" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    <style name="Base.Theme.ListyCity" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">#50aff2</item>
+        <item name="colorOnPrimary">@android:color/white</item>
     </style>
 
     <style name="Theme.ListyCity" parent="Base.Theme.ListyCity" />
