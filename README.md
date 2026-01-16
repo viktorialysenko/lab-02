@@ -2,16 +2,14 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Viktoria Lysenko>`
+- **CCID:** `<vlysenko>`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://stackoverflow.com/questions/16927103/onclicklistener-in-android-studio
+https://developer.android.com/develop/ui/views/components/button
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+N/A
